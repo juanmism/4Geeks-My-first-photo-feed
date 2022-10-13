@@ -1,0 +1,63 @@
+
+body {
+    background-color: rgb(233, 227, 227);
+}
+header {
+    background-color: #ffffff;
+    margin: -10px;
+    height: 60px;
+}
+h1 {
+    text-align:center;
+    margin: 10px;
+    padding: 10px;
+}
+#photo1 {
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+}
+#headph1 {
+    display: flex;
+}
+#title1{
+    width: 150px;
+    margin-right: 300px;
+    margin-left:5px ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight:bold;
+}
+#date1 {
+   width: 50px;
+   color: grey;
+   margin-right:5px ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+   
+}
+#image1 {
+    background-image: url("https://us.123rf.com/450wm/prinprince/prinprince1603/prinprince160300172/54527493-hombre-de-papamoscas-de-rabadilla-amarilla-ficedula-zanthopygia-el-hermoso-p%C3%A1jaro-amarillo-moviendo-.jpg?ver=6;");
+    height: 350px;
+    background-size: cover;
+}
+#text1 {
+    margin: 10px;
+}
+#image2 {
+    background-image: url(https://i.pinimg.com/736x/f0/cf/7b/f0cf7b210db73b144cf6832e29892f77.jpg);
+    height: 350px;
+    background-size: cover;
+}
+#image3 {
+    background-image: url(https://e00-elmundo.uecdn.es/elmundo/imagenes/2011/06/24/ciencia/1308918639_0.jpg);
+    height: 350px;
+    background-size:cover;
+}
+#image4 {
+    background-image: url(https://us.123rf.com/450wm/steve_byland/steve_byland1104/steve_byland110400013/9241855-hombres-oriental-bluebird-sialia-sp-en-vuelo.jpg?ver=6);
+    height: 350px;
+    background-size:cover;
+}
