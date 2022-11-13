@@ -14,17 +14,16 @@ h1 {
 }
 #photo1 {
     background-color: white;
-    height: 500px;
+    
     width: 500px;
     margin: auto;
     margin-top: 40px;
 }
 #headph1 {
     display: flex;
+    justify-content: space-between;
 }
 #title1{
-    width: 150px;
-    margin-right: 300px;
     margin-left:5px ;
     margin-top: 5px;
     margin-bottom: 5px;
