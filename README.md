@@ -1,26 +1,26 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) The Instagram Photo Feed - Prework
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
-
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
-
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+✏ *Using everything you have learned with HTML and CSS3, please create a website that replicates this gif: **<https://raw.githubusercontent.com/breatheco-de/exercise-instagram-feed/master/preview.gif>***.
 
 ## What to do next?
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+📄 Running a web-server using the following command in the **Gitpod workspace** terminal to preview the project:
 
 ```sh
-$ pip3 install flask && python3 server.py
+pip3 install flask && python3 server.py
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+## Sources 📌
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+<https://learn.breatheco.de/course/coding-introduction.v1/3/p/instagram-feed>
+
+<https://github.com/breatheco-de/exercise-instagram-feed/blob/master/strategy.png>
+
+<https://www.youtube.com/watch?v=0UrDxsUjF4U>
+
+## Direct live demo 🎬
+
+<https://raw.githack.com/juanmism/4Geeks-My-first-photo-feed/main/index.html>
+
+💻 _Juan Miguel Sáenz Martel_ (<https://github.com/juanmism>)
+
